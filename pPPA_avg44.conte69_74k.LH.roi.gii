@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI Version="1.0"  NumberOfDataArrays="1">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[Date]]></Name>
+         <Value><![CDATA[2018-04-11 12:46]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UserName]]></Name>
+         <Value><![CDATA[valesulpizio]]></Value>
+      </MD>
+   </MetaData>
+   <LabelTable/>
+   <DataArray  ArrayIndexingOrder="RowMajorOrder"
+               DataType="NIFTI_TYPE_FLOAT32"
+               Dim0="73730"
+               Dimensionality="1"
+               Encoding="GZipBase64Binary"
+               Endian="LittleEndian"
+               Intent="NIFTI_INTENT_SHAPE">
+   <MetaData>
+      <MD>
+         <Name><![CDATA[AnatomicalStructurePrimary]]></Name>
+         <Value><![CDATA[CortexLeft]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[AnatomicalStructureSecondary]]></Name>
+         <Value><![CDATA[MidThickness]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[DataspaceID]]></Name>
+         <Value><![CDATA[conte69_74k]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Date]]></Name>
+         <Value><![CDATA[01-Jan-1900]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Description]]></Name>
+         <Value><![CDATA[.../SceneROIs/SceneROIS/GLM.NewGLM/101.conte69_74k.lh (ANOVA.New.Main effect of Condition (positive-second).hrf)]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[GeometricType]]></Name>
+         <Value><![CDATA[Anatomical]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[Name]]></Name>
+         <Value><![CDATA[pPPA_avg44.LH]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[SubjectID]]></Name>
+         <Value><![CDATA[*]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[SurfaceID]]></Name>
+         <Value><![CDATA[conte69_74k]]></Value>
+      </MD>
+      <MD>
+         <Name><![CDATA[UniqueID]]></Name>
+         <Value><![CDATA[{b0af85e0-6fec-492e-8b69-c1ef8bc1cc6f}]]></Value>
+      </MD>
+   </MetaData>
+      <CoordinateSystemTransformMatrix>
+         <DataSpace><![CDATA[NIFTI_XFORM_ALIGNED_ANAT]]></DataSpace>
+         <TransformedSpace><![CDATA[NIFTI_XFORM_ALIGNED_ANAT]]></TransformedSpace>
+         <MatrixData>1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 0.000000 1.000000 </MatrixData>
+      </CoordinateSystemTransformMatrix>
+      <Data>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</Data>
+   </DataArray>
+</GIFTI>
